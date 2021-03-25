@@ -8,9 +8,9 @@
 **Connect with me:**
 
 [<img align="left" alt="www.facebook.com" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
-[<img align="left" alt="Pankaj Joshi | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]()
-[<img align="left" alt="obirin_10 | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter](https://twitter.com/obirin_10)
-[<img align="left" alt="Pankaj Joshi | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin](https://www.linkedin.com/in/pankaj-joshi-6111361b0/)
+[<img align="left" alt="Pankaj Joshi | YouTube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="obirin_10 | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
+[<img align="left" alt="Pankaj Joshi | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Pankaj Joshi | Facebook" width="22px" src="https://img.icons8.com/color/22/000000/facebook-new.png" />][facebook]
 
 <br />
