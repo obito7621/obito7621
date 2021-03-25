@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=0366d6&title_color=0366d6&icon_color=0375d6&text_color=d60303" />
+<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=0375d6&text_color=d60303" />
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=obito7621&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
