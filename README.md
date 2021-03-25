@@ -1,9 +1,4 @@
-## Hi, I'm [Pankaj Joshi][] 👋
-<img
-  align="right"
-  width="300px"
-  src="./bioImg.svg"
-/>
+## Hi, I'm [Pankaj Joshi]👋
 
 - 🔭 I’m currently developing a mobile app
 - 🌱 I’m currently learning advanced concepts of React Native and GraphQL
@@ -34,7 +29,7 @@
 
 ---
 
-<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=0375d6&text_color=ff7b32" />
+<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=0375d6&text_color=33ff7c" />
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=obito7621&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
