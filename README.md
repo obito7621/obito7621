@@ -1,8 +1,13 @@
 ## Hi, I'm [Pankaj Joshi]👋
 
+<img
+  align="right"
+  width="300px"
+  src="./biolmg.svg"
+/>
+
 - 🔭 I’m currently developing a mobile app
 - 🌱 I’m currently learning advanced concepts of React Native and GraphQL
-- 👯 I’m looking to collaborate with other content creators on [YouTube][youtube]
 - ⚡ Fun fact: I love to do calisthenics
 
 **Connect with me:**
@@ -29,8 +34,14 @@
 
 ---
 
-<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=0375d6&text_color=33ff7c" />
+<img align="left" height="165" alt="obito7621's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafacdomin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=33ff7c&text_color=0375d6" />
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=obito7621&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=obito7621&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=0366d6&icon_color=33ff7c&text_color=0375d6"
 />
+
+[website]: https://www.facebook.com/
+[twitter]: https://twitter.com/obirin_10
+[youtube]: https://www.youtube.com/channel/UCxZae3CckJZ2V-WaNQLbeRg
+[facebook]: https://facebook.com/
+[linkedin]: https://linkedin.com/in/pankaj-joshi
